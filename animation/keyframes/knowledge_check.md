@@ -1,6 +1,6 @@
 - What are the long and short-hand notations for CSS animations?
-  - long-hand notation includes `animation-duration, animation-name, animation-iteration-count, and animation-direction`
-  - short-hand notation includes `animation: <animation-duration> <animation-name> <animation-iteration-count> <animation-direction>`
+  - long-hand notation includes `animation-duration, animation-name, animation-iteration-count, and animation-direction` and [much more](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+  - short-hand notation includes `animation: <animation-duration> <animation-name> <animation-iteration-count> <animation-direction>` and [much more](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
 
 - How do you add keyframes to an animation?
   - reference the animation name, then use `0%`, `100%`, and percentages in between
