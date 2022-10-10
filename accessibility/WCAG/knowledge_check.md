@@ -1,0 +1,11 @@
+- What is the purpose of the Web Content Accessibility Guidelines?
+  - guidelines that help make websites more accessible
+
+- What are the 4 principles of the WCAG?
+  - perceivable: perceive info or user interfaces being presented
+    - a bad example is light text on a light background
+  - operable: interfaces can't require an interaction which the user can't perform
+    - a bad example is a navigation bar with drop-down menus only expanding when mouse cursor hovers, but not when focusing through keyboard
+  - understandable: users must be able to understand info or user inferface presented
+    - a bad example is an error that doesn't actually mean or show how to fix whatever caused the error
+  - robust: content must be accessible by current assistive tech and other user agents, and must remain accessible as those tech advance
