@@ -9,3 +9,4 @@
   - keeping a sidebar to always be `250px` or an icon to stay at `32px`
 
 - Why should you avoid percentages?
+  - most elements are already responsive to the viewport, even without using percentages 
